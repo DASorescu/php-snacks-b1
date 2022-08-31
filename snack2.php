@@ -18,8 +18,5 @@ if((mb_strlen($name) > 3) && (is_numeric($age)) && (strpos($mail ,$needle1))&& (
 };
 
 
-// var_dump($name);
-// echo mb_strlen($name);
-// var_dump($mail);
-// var_dump($age);
+
 ?>
