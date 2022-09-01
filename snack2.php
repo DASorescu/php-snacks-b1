@@ -32,7 +32,11 @@ $is_name_valid = mb_strlen(trim($name));
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        body{
+            margin:0%;
+        }
         .access{
+            
             height:100vh;
             width: 100vw;
             font-size: 150px;
